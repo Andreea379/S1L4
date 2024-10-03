@@ -1,0 +1,85 @@
+body{
+    background-image:url("../assets/img/sfondo.png");
+    margin: 0;
+}
+
+header{
+    background-color: rgba(0,134,157,255);
+    max-width: 400px;
+    height:300px;
+    margin-inline:auto;
+    margin-top: 20px; 
+    box-shadow: 1px 2px 5px black;
+    color:white;
+    font-family: Poppins;
+    font-weight:700;
+}
+
+header div, header nav{
+    text-align: center;
+}
+
+img{
+    height:70px;
+    margin-top: 30px;
+}
+
+header div p{
+    margin-top:30px;
+    
+}
+
+fas fa-arrow-right{
+    color: white;
+}
+dd{
+    margin-top: 5px;
+
+}
+
+video{
+    width: 350px;
+    border-radius: 20px;
+}
+
+novita{
+    background-color: gray;
+}
+main{
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight:300;
+    max-width: 400px;
+    margin-inline: auto;
+    border: 1px solid gray;
+    margin-top: 20px;
+    box-sizing:border-box;
+    padding:20px;
+    
+}
+strong{
+    color: rgba(170,32,114,255);
+}
+
+th{
+    vertical-align:middle;
+    height:100px;
+    width:133px;
+    background-color: rgba(64,103,191,255);
+    color: white;
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight:300;
+    
+}
+
+td{
+    vertical-align:middle;
+    text-align: center;
+    height:40px;
+    width:133px;
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight:300;
+}
+
